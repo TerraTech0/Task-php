@@ -1,0 +1,15 @@
+{
+    "name": "shehab/tasks-dashboard",
+    "autoload": {
+        "psr-4": {
+            "Shehab\\TasksDashboard\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "s-hsny",
+            "email": "s.hosny@wakeb.tech"
+        }
+    ],
+    "require": {}
+}
